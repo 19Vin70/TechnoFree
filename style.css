@@ -90,6 +90,7 @@ header .navbar ul li{
 header .navbar ul li a{
     font-size: 2rem;
     color:#000;
+    text-transform: uppercase;
 }
 
 header .navbar ul li a:hover{
